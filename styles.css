@@ -252,6 +252,12 @@ body {
   }
 }
 
+.int_data {
+    font-size: 14px;
+     
+    
+  }
+
 @media screen and (max-width: 424px) {
   .resume_wrapper .resume_right {
     padding: 20px 30px;
@@ -293,11 +299,7 @@ body {
     padding-left: 10rem;
   }
 
-  .int_data {
-    font-size: 14px;
-     
-    
-  }
+ 
   
 }
 
